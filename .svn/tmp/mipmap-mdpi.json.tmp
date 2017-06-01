@@ -1,0 +1,17 @@
+[
+    {
+<<<<<<< .mine
+        "merged": "C:\\Users\\Joseph Grooth\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher.png",
+        "source": "C:\\Users\\Joseph Grooth\\AndroidStudioProjects\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+=======
+        "merged": "C:\\Users\\Joseph Grooth\\AndroidStudioProjects\\Lab1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher_round.png",
+        "source": "C:\\Users\\Joseph Grooth\\AndroidStudioProjects\\Lab1\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+>>>>>>> .r28866
+        "merged": "C:\\Users\\Joseph Grooth\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher_round.png",
+        "source": "C:\\Users\\Joseph Grooth\\AndroidStudioProjects\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    }
+]

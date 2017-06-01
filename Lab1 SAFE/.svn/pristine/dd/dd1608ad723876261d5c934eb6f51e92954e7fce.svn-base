@@ -1,0 +1,43 @@
+package uwaterloo.ca.lab1;
+
+import android.hardware.Sensor;
+import android.hardware.SensorEvent;
+import android.hardware.SensorEventListener;
+import android.widget.TextView;
+
+public class magSensorEventListener implements SensorEventListener {
+    TextView output;
+    TextView maxOutputs;
+    float[] maxValues= new float[3];
+    public magSensorEventListener(TextView outputView,TextView magMax){
+        output=outputView;
+        maxOutputs=magMax;
+    }
+    public void clearMaxValues(){
+        maxValues[0]=0;
+        maxValues[1]=0;
+        maxValues[2]=0;
+    }
+    public void onAccuracyChanged(Sensor s, int i){}
+
+
+    public void onSensorChanged(SensorEvent se){
+        if (se.sensor.getType()==Sensor.TYPE_MAGNETIC_FIELD){
+            int round =(int) (se.values[0]*3);
+            float rounded=((float)round)/3;
+            String value=String.format("\n\nMagnetic Field Sensor Values: \n (%.6g,%.6g,%.6g)", rounded,se.values[1],se.values[2]);
+            String max=String.format("The Highest Recorded Magnetic Sensor Values Are: \n (%.6g,%.6g,%.6g) ", maxValues[0],maxValues[1],maxValues[2]);
+            maxOutputs.setText(max);
+            output.setText(value);
+        }
+        if (Math.abs(maxValues[0])<Math.abs(se.values[0])){
+            maxValues[0]=se.values[0];
+        }
+        if (Math.abs(maxValues[1])<Math.abs(se.values[1])){
+            maxValues[1]=se.values[1];
+        }
+        if (Math.abs(maxValues[2])<Math.abs(se.values[2])){
+            maxValues[2]=se.values[2];
+        }
+    }
+}

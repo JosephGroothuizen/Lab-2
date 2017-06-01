@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<<<<<<< .mine
+<merger version="3"><dataSet config="main"><source path="C:\Users\Joseph Grooth\AndroidStudioProjects\app\src\main\shaders"/></dataSet><dataSet config="debug"><source path="C:\Users\Joseph Grooth\AndroidStudioProjects\app\src\debug\shaders"/></dataSet></merger>=======
+<merger version="3"><dataSet config="main"><source path="C:\Users\Joseph Grooth\AndroidStudioProjects\Lab1\app\src\main\shaders"/></dataSet><dataSet config="debug"><source path="C:\Users\Joseph Grooth\AndroidStudioProjects\Lab1\app\src\debug\shaders"/></dataSet></merger>>>>>>>> .r28866

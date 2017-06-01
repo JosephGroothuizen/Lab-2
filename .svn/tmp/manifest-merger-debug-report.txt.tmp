@@ -1,0 +1,201 @@
+-- Merging decision tree log ---
+manifest
+<<<<<<< .mine
+ADDED from C:\Users\Joseph Grooth\AndroidStudioProjects\app\src\main\AndroidManifest.xml:2:1-21:12
+=======
+ADDED from C:\Users\Joseph Grooth\AndroidStudioProjects\Lab1\app\src\main\AndroidManifest.xml:2:1-21:12
+>>>>>>> .r28866
+	package
+<<<<<<< .mine
+		ADDED from C:\Users\Joseph Grooth\AndroidStudioProjects\app\src\main\AndroidManifest.xml:3:5-32
+		INJECTED from C:\Users\Joseph Grooth\AndroidStudioProjects\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Joseph Grooth\AndroidStudioProjects\app\src\main\AndroidManifest.xml
+=======
+		ADDED from C:\Users\Joseph Grooth\AndroidStudioProjects\Lab1\app\src\main\AndroidManifest.xml:3:5-32
+		INJECTED from C:\Users\Joseph Grooth\AndroidStudioProjects\Lab1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Joseph Grooth\AndroidStudioProjects\Lab1\app\src\main\AndroidManifest.xml
+>>>>>>> .r28866
+	android:versionName
+<<<<<<< .mine
+		INJECTED from C:\Users\Joseph Grooth\AndroidStudioProjects\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Joseph Grooth\AndroidStudioProjects\app\src\main\AndroidManifest.xml
+=======
+		INJECTED from C:\Users\Joseph Grooth\AndroidStudioProjects\Lab1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Joseph Grooth\AndroidStudioProjects\Lab1\app\src\main\AndroidManifest.xml
+>>>>>>> .r28866
+	xmlns:android
+<<<<<<< .mine
+		ADDED from C:\Users\Joseph Grooth\AndroidStudioProjects\app\src\main\AndroidManifest.xml:2:11-69
+=======
+		ADDED from C:\Users\Joseph Grooth\AndroidStudioProjects\Lab1\app\src\main\AndroidManifest.xml:2:11-69
+>>>>>>> .r28866
+	android:versionCode
+<<<<<<< .mine
+		INJECTED from C:\Users\Joseph Grooth\AndroidStudioProjects\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Joseph Grooth\AndroidStudioProjects\app\src\main\AndroidManifest.xml
+=======
+		INJECTED from C:\Users\Joseph Grooth\AndroidStudioProjects\Lab1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Joseph Grooth\AndroidStudioProjects\Lab1\app\src\main\AndroidManifest.xml
+>>>>>>> .r28866
+application
+<<<<<<< .mine
+ADDED from C:\Users\Joseph Grooth\AndroidStudioProjects\app\src\main\AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Joseph Grooth\.android\build-cache\4f880391c2ea9c91fa6bb67cfbac98db79e8751e\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Joseph Grooth\.android\build-cache\acd337f60b33786fb7dd5c6394baaf659d405861\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Joseph Grooth\.android\build-cache\061dbd08acc2670b6308bd4846e609c048bc898f\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Joseph Grooth\.android\build-cache\4c535257329245c4ca88bf0b106829c030926f59\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Joseph Grooth\.android\build-cache\08d19f522fa79c15433558d7e02b4a90fecbba7b\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Joseph Grooth\.android\build-cache\5f9726b4b54c353aae6627d10d11b73e4cf4b038\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Joseph Grooth\.android\build-cache\bfa3cd5b1179f53bf113e6eae0680f0cc42368ce\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Joseph Grooth\.android\build-cache\ea289f48cb96ad29496318abdff6846b74f2b8cb\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Joseph Grooth\.android\build-cache\524527db3eb683f4c6c1bd8e7d61daa2494d6a10\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-alpha7] C:\Users\Joseph Grooth\.android\build-cache\3f4e3eac9d3b6068df0ca1ca30c1f7f348df9829\output\AndroidManifest.xml:9:5-20
+=======
+ADDED from C:\Users\Joseph Grooth\AndroidStudioProjects\Lab1\app\src\main\AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Joseph Grooth\.android\build-cache\4f880391c2ea9c91fa6bb67cfbac98db79e8751e\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Joseph Grooth\.android\build-cache\acd337f60b33786fb7dd5c6394baaf659d405861\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Joseph Grooth\.android\build-cache\061dbd08acc2670b6308bd4846e609c048bc898f\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Joseph Grooth\.android\build-cache\4c535257329245c4ca88bf0b106829c030926f59\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Joseph Grooth\.android\build-cache\08d19f522fa79c15433558d7e02b4a90fecbba7b\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Joseph Grooth\.android\build-cache\5f9726b4b54c353aae6627d10d11b73e4cf4b038\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Joseph Grooth\.android\build-cache\bfa3cd5b1179f53bf113e6eae0680f0cc42368ce\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Joseph Grooth\.android\build-cache\ea289f48cb96ad29496318abdff6846b74f2b8cb\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Joseph Grooth\.android\build-cache\524527db3eb683f4c6c1bd8e7d61daa2494d6a10\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-alpha7] C:\Users\Joseph Grooth\.android\build-cache\3f4e3eac9d3b6068df0ca1ca30c1f7f348df9829\output\AndroidManifest.xml:9:5-20
+>>>>>>> .r28866
+	android:label
+<<<<<<< .mine
+		ADDED from C:\Users\Joseph Grooth\AndroidStudioProjects\app\src\main\AndroidManifest.xml:8:9-41
+=======
+		ADDED from C:\Users\Joseph Grooth\AndroidStudioProjects\Lab1\app\src\main\AndroidManifest.xml:8:9-41
+>>>>>>> .r28866
+	android:supportsRtl
+<<<<<<< .mine
+		ADDED from C:\Users\Joseph Grooth\AndroidStudioProjects\app\src\main\AndroidManifest.xml:10:9-35
+=======
+		ADDED from C:\Users\Joseph Grooth\AndroidStudioProjects\Lab1\app\src\main\AndroidManifest.xml:10:9-35
+>>>>>>> .r28866
+	android:roundIcon
+<<<<<<< .mine
+		ADDED from C:\Users\Joseph Grooth\AndroidStudioProjects\app\src\main\AndroidManifest.xml:9:9-54
+=======
+		ADDED from C:\Users\Joseph Grooth\AndroidStudioProjects\Lab1\app\src\main\AndroidManifest.xml:9:9-54
+>>>>>>> .r28866
+	android:allowBackup
+<<<<<<< .mine
+		ADDED from C:\Users\Joseph Grooth\AndroidStudioProjects\app\src\main\AndroidManifest.xml:6:9-35
+=======
+		ADDED from C:\Users\Joseph Grooth\AndroidStudioProjects\Lab1\app\src\main\AndroidManifest.xml:6:9-35
+>>>>>>> .r28866
+	android:icon
+<<<<<<< .mine
+		ADDED from C:\Users\Joseph Grooth\AndroidStudioProjects\app\src\main\AndroidManifest.xml:7:9-43
+=======
+		ADDED from C:\Users\Joseph Grooth\AndroidStudioProjects\Lab1\app\src\main\AndroidManifest.xml:7:9-43
+>>>>>>> .r28866
+	android:theme
+<<<<<<< .mine
+		ADDED from C:\Users\Joseph Grooth\AndroidStudioProjects\app\src\main\AndroidManifest.xml:11:9-40
+=======
+		ADDED from C:\Users\Joseph Grooth\AndroidStudioProjects\Lab1\app\src\main\AndroidManifest.xml:11:9-40
+>>>>>>> .r28866
+activity#uwaterloo.ca.lab1.Lab1
+<<<<<<< .mine
+ADDED from C:\Users\Joseph Grooth\AndroidStudioProjects\app\src\main\AndroidManifest.xml:12:9-18:20
+=======
+ADDED from C:\Users\Joseph Grooth\AndroidStudioProjects\Lab1\app\src\main\AndroidManifest.xml:12:9-18:20
+>>>>>>> .r28866
+	android:name
+<<<<<<< .mine
+		ADDED from C:\Users\Joseph Grooth\AndroidStudioProjects\app\src\main\AndroidManifest.xml:12:19-39
+=======
+		ADDED from C:\Users\Joseph Grooth\AndroidStudioProjects\Lab1\app\src\main\AndroidManifest.xml:12:19-39
+>>>>>>> .r28866
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+<<<<<<< .mine
+ADDED from C:\Users\Joseph Grooth\AndroidStudioProjects\app\src\main\AndroidManifest.xml:13:13-17:29
+=======
+ADDED from C:\Users\Joseph Grooth\AndroidStudioProjects\Lab1\app\src\main\AndroidManifest.xml:13:13-17:29
+>>>>>>> .r28866
+action#android.intent.action.MAIN
+<<<<<<< .mine
+ADDED from C:\Users\Joseph Grooth\AndroidStudioProjects\app\src\main\AndroidManifest.xml:14:17-69
+=======
+ADDED from C:\Users\Joseph Grooth\AndroidStudioProjects\Lab1\app\src\main\AndroidManifest.xml:14:17-69
+>>>>>>> .r28866
+	android:name
+<<<<<<< .mine
+		ADDED from C:\Users\Joseph Grooth\AndroidStudioProjects\app\src\main\AndroidManifest.xml:14:25-66
+=======
+		ADDED from C:\Users\Joseph Grooth\AndroidStudioProjects\Lab1\app\src\main\AndroidManifest.xml:14:25-66
+>>>>>>> .r28866
+category#android.intent.category.LAUNCHER
+<<<<<<< .mine
+ADDED from C:\Users\Joseph Grooth\AndroidStudioProjects\app\src\main\AndroidManifest.xml:16:17-77
+=======
+ADDED from C:\Users\Joseph Grooth\AndroidStudioProjects\Lab1\app\src\main\AndroidManifest.xml:16:17-77
+>>>>>>> .r28866
+	android:name
+<<<<<<< .mine
+		ADDED from C:\Users\Joseph Grooth\AndroidStudioProjects\app\src\main\AndroidManifest.xml:16:27-74
+=======
+		ADDED from C:\Users\Joseph Grooth\AndroidStudioProjects\Lab1\app\src\main\AndroidManifest.xml:16:27-74
+>>>>>>> .r28866
+uses-sdk
+<<<<<<< .mine
+INJECTED from C:\Users\Joseph Grooth\AndroidStudioProjects\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Joseph Grooth\.android\build-cache\4f880391c2ea9c91fa6bb67cfbac98db79e8751e\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Joseph Grooth\.android\build-cache\acd337f60b33786fb7dd5c6394baaf659d405861\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Joseph Grooth\.android\build-cache\061dbd08acc2670b6308bd4846e609c048bc898f\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Joseph Grooth\.android\build-cache\4c535257329245c4ca88bf0b106829c030926f59\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Joseph Grooth\.android\build-cache\08d19f522fa79c15433558d7e02b4a90fecbba7b\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Joseph Grooth\.android\build-cache\5f9726b4b54c353aae6627d10d11b73e4cf4b038\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Joseph Grooth\.android\build-cache\bfa3cd5b1179f53bf113e6eae0680f0cc42368ce\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Joseph Grooth\.android\build-cache\ea289f48cb96ad29496318abdff6846b74f2b8cb\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Joseph Grooth\.android\build-cache\524527db3eb683f4c6c1bd8e7d61daa2494d6a10\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-alpha7] C:\Users\Joseph Grooth\.android\build-cache\3f4e3eac9d3b6068df0ca1ca30c1f7f348df9829\output\AndroidManifest.xml:5:5-7:41
+=======
+INJECTED from C:\Users\Joseph Grooth\AndroidStudioProjects\Lab1\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Joseph Grooth\.android\build-cache\4f880391c2ea9c91fa6bb67cfbac98db79e8751e\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Joseph Grooth\.android\build-cache\acd337f60b33786fb7dd5c6394baaf659d405861\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Joseph Grooth\.android\build-cache\061dbd08acc2670b6308bd4846e609c048bc898f\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Joseph Grooth\.android\build-cache\4c535257329245c4ca88bf0b106829c030926f59\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Joseph Grooth\.android\build-cache\08d19f522fa79c15433558d7e02b4a90fecbba7b\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Joseph Grooth\.android\build-cache\5f9726b4b54c353aae6627d10d11b73e4cf4b038\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Joseph Grooth\.android\build-cache\bfa3cd5b1179f53bf113e6eae0680f0cc42368ce\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Joseph Grooth\.android\build-cache\ea289f48cb96ad29496318abdff6846b74f2b8cb\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Joseph Grooth\.android\build-cache\524527db3eb683f4c6c1bd8e7d61daa2494d6a10\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-alpha7] C:\Users\Joseph Grooth\.android\build-cache\3f4e3eac9d3b6068df0ca1ca30c1f7f348df9829\output\AndroidManifest.xml:5:5-7:41
+>>>>>>> .r28866
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Joseph Grooth\.android\build-cache\4f880391c2ea9c91fa6bb67cfbac98db79e8751e\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+<<<<<<< .mine
+		INJECTED from C:\Users\Joseph Grooth\AndroidStudioProjects\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Joseph Grooth\AndroidStudioProjects\app\src\main\AndroidManifest.xml
+=======
+		INJECTED from C:\Users\Joseph Grooth\AndroidStudioProjects\Lab1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Joseph Grooth\AndroidStudioProjects\Lab1\app\src\main\AndroidManifest.xml
+>>>>>>> .r28866
+	android:minSdkVersion
+<<<<<<< .mine
+		INJECTED from C:\Users\Joseph Grooth\AndroidStudioProjects\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Joseph Grooth\AndroidStudioProjects\app\src\main\AndroidManifest.xml
+=======
+		INJECTED from C:\Users\Joseph Grooth\AndroidStudioProjects\Lab1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Joseph Grooth\AndroidStudioProjects\Lab1\app\src\main\AndroidManifest.xml
+>>>>>>> .r28866
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Joseph Grooth\.android\build-cache\4f880391c2ea9c91fa6bb67cfbac98db79e8751e\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Joseph Grooth\.android\build-cache\acd337f60b33786fb7dd5c6394baaf659d405861\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Joseph Grooth\.android\build-cache\061dbd08acc2670b6308bd4846e609c048bc898f\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Joseph Grooth\.android\build-cache\4c535257329245c4ca88bf0b106829c030926f59\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Joseph Grooth\.android\build-cache\08d19f522fa79c15433558d7e02b4a90fecbba7b\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Joseph Grooth\.android\build-cache\5f9726b4b54c353aae6627d10d11b73e4cf4b038\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Joseph Grooth\.android\build-cache\bfa3cd5b1179f53bf113e6eae0680f0cc42368ce\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Joseph Grooth\.android\build-cache\ea289f48cb96ad29496318abdff6846b74f2b8cb\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Joseph Grooth\.android\build-cache\524527db3eb683f4c6c1bd8e7d61daa2494d6a10\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Joseph Grooth\.android\build-cache\4f880391c2ea9c91fa6bb67cfbac98db79e8751e\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Joseph Grooth\.android\build-cache\4f880391c2ea9c91fa6bb67cfbac98db79e8751e\output\AndroidManifest.xml:26:9-47

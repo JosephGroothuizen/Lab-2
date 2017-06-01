@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Haras1998\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.0-alpha7\constraint-layout-solver-1.0.0-alpha7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="439eeb5ffd54cbd18db0a6aea471e8356f19fc36">
+        <dex dex="C:\Users\Haras1998\AndroidStudioProjects\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.0-alpha7_920924f8db99b65233884e15c16947779f7d9adb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Haras1998\.android\build-cache\68bde0718042864966419030c8f1dda46065d5fc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\Haras1998\AndroidStudioProjects\app\build\intermediates\pre-dexed\debug\classes_133bd617050f1cc5b8e2958c41376d9bbe61bb7c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Haras1998\.android\build-cache\391adc3c4e034228aa92cd341967f69dd946a07b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\Haras1998\AndroidStudioProjects\app\build\intermediates\pre-dexed\debug\classes_a2960d63f4e4e96a76b1270c3e88c7171b78e108.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Haras1998\.android\build-cache\7467525d20675038f5e265833ce4f970123111d2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Haras1998\AndroidStudioProjects\app\build\intermediates\pre-dexed\debug\classes_a303134fd328ed77845a24f565416ee6f092600a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Haras1998\.android\build-cache\28a6967239528d0678ea29763a7f0e30be692c16\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\Haras1998\AndroidStudioProjects\app\build\intermediates\pre-dexed\debug\classes_0d4fbdf9219d4a136f112bcc7702011ac522381d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Haras1998\.android\build-cache\bd51819c472866950adc630f5c8ca8af99ecb6e2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\Haras1998\AndroidStudioProjects\app\build\intermediates\pre-dexed\debug\classes_cfca3d3a1049b617155d5fc885864ac48ba76750.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Haras1998\.android\build-cache\3f3fdf6c135085373285d23296152552ecab42f3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="541a2ad68dc68aa49795821f8280b7624e6a0c9b">
+        <dex dex="C:\Users\Haras1998\AndroidStudioProjects\app\build\intermediates\pre-dexed\debug\classes_84a3673f799d0745ec364429164546260e928b01.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Haras1998\.android\build-cache\88cc647ef379b5a0119482c551aea20d99dc5e26\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\Haras1998\AndroidStudioProjects\app\build\intermediates\pre-dexed\debug\classes_def6372ac91ba2071e1230d99d1f1169b7dff8f5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Haras1998\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\Haras1998\AndroidStudioProjects\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_1418ced165328a2c07efb4391d4403ca6100b63d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Haras1998\.android\build-cache\5e32c91c9e2e15ab355a669bef866c71689a86b3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\Haras1998\AndroidStudioProjects\app\build\intermediates\pre-dexed\debug\classes_04b0d8d00bebcf8f5325a6f5cd190613024299e6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Haras1998\.android\build-cache\86407db42dc8900e8c124146507bf1479c5e8695\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\Haras1998\AndroidStudioProjects\app\build\intermediates\pre-dexed\debug\classes_039864384d42cae00ffe15893ab284b8812e1ad3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Haras1998\.android\build-cache\d064920ed9be0675695df17520ecd07d2f32b9fc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\Haras1998\AndroidStudioProjects\app\build\intermediates\pre-dexed\debug\classes_17f0037040e28f03b4e4bb053b55eb79b2c3bf73.jar" />
+    </item>
+
+</items>
